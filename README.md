@@ -9,11 +9,11 @@ W ramach realizacji zadania przeanalizowano, wdrożono oraz zmodyfikowano kod do
 
 Wygląd zrealizowanego chatu:
 
-![web-sockets](images\web-sockets.png)
+![web-sockets](images/web-sockets.png)
 
 
 ## Web workers:
 
 Zrealizowane obliczenia silni oraz ciągu fibonacciego przy pomocy web workerów:
 
-![workers](images\workers.png)
+![workers](images/workers.png)
